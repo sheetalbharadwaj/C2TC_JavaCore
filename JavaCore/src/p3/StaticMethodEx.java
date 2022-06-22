@@ -2,7 +2,7 @@ package p3;
 
 public class StaticMethodEx {
 	//static variable
-		static int j=100;
+	 static int j=100;
 		
 		//instance variables
 		int n=200;
